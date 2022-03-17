@@ -11,7 +11,9 @@ namespace tpmodul4_1302204031
         public static void Main()
         {
             HaloGeneric halo = new HaloGeneric();
-            halo.SapaUser(dewa);
+            halo.SapaUser("Dewa");
+            DataGeneric<string> data = new DataGeneric<string>("1302204031");
+            data.PrintData();
         }
     }
 }
