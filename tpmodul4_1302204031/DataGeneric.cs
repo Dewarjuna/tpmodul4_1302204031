@@ -19,4 +19,8 @@ namespace tpmodul4_1302204031
             Console.WriteLine("Data yang tersimpan adalah: " + data);
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> generic-class

@@ -12,5 +12,9 @@ namespace tpmodul4_1302204031
         {
             Console.WriteLine("Halo user " + sapa);
         }
+<<<<<<< HEAD
     }
 }
+=======
+    }
+>>>>>>> generic-class
